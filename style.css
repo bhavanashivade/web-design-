@@ -96,6 +96,12 @@ img {
 }
 
 
+.col-7 .post img {
+
+    width: 100%;
+}
+
+
 h1 {
 
     margin: 10px 0;
